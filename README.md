@@ -8,4 +8,4 @@ I have just started to learn Html and CSS. This is just the beginning. I will ne
 
 # My First Page
 
-![](images/1.jpg);
+![](1.jpg);
